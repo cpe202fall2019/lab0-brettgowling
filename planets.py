@@ -1,7 +1,4 @@
 def weight_on_planets():
-   # write your code here
-  #Test 
-   #Test2
-   print("It works.")
+   print("What do you weigh on earth?", input(x))
 if __name__ == '__main__':
    weight_on_planets()
